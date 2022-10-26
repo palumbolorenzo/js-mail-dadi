@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+.dice-container {
+    background-color: rgb(8, 156, 67);
+    max-width: 500px;
+    margin: 0 auto;
+    border: 5px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
